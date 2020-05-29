@@ -9,7 +9,7 @@ udp://@239.192.50.21:1234
 #EXTINF:200, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIXE",ANIXE
 udp://@239.192.20.2:1234
 
-#EXTINF:11, tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="ANIXE HD",ANIXE HD
+#EXTINF:11, tvg-id="AnixeSerie.de" channel-number=11 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="ANIXE HD",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 #EXTINF:200, tvg-id="ARDEvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png" tvg-name="ARD Event 1",ARD Event 1
@@ -63,7 +63,7 @@ udp://@239.192.50.32:1234
 #EXTINF:200, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 21",Channel 21
 udp://@239.192.10.32:1234
 
-#EXTINF:1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="Das Erste HD",Das Erste HD
+#EXTINF:1, tvg-id="ARD.de" channel-number=1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="Das Erste HD",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 
 #EXTINF:200, tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" tvg-name="DELUXE MUSIC",DELUXE MUSIC
