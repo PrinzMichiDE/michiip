@@ -111,7 +111,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:10, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="10 - Kabel eins"  group-title="Unsorted",10 - Kabel eins
 udp://@239.192.10.4:1234
 
-#EXTINF:1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="01 - Das Erste HD"  group-title="",01 - Das Erste HD
+#EXTINF:1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="01 - Das Erste HD" tvg-chno="1" group-title="",01 - Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KiKa HD"  group-title="Unsorted",KiKa HD
