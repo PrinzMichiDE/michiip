@@ -6,10 +6,10 @@ https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3sat HD"  group-title="Unsorted",3sat HD
 udp://@239.192.50.21:1234
 
-#EXTINF:11, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIXE"  group-title="Unsorted",ANIXE
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIXE"  group-title="Unsorted",ANIXE
 udp://@239.192.20.2:1234
 
-#EXTINF:-1, tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="ANIXE HD"  group-title="Unsorted",ANIXE HD
+#EXTINF:11, tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="ANIXE HD"  group-title="Unsorted",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 #EXTINF:-1, tvg-id="ARDEvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png" tvg-name="ARD Event 1"  group-title="Unsorted",ARD Event 1
@@ -18,7 +18,7 @@ http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p
 #EXTINF:-1, tvg-id="ARDEvent2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png" tvg-name="ARD Event 2"  group-title="Unsorted",ARD Event 2
 http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8
 
-#EXTINF:-1, tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" tvg-name="ARD-alpha"  group-title="Unsorted",ARD-alpha
+#EXTINF:23, tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" tvg-name="ARD-alpha"  group-title="Unsorted",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
 
 #EXTINF:-1, tvg-id="ArteEvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" tvg-name="ARTE Event 1"  group-title="Unsorted",ARTE Event 1
@@ -33,7 +33,7 @@ https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
 #EXTINF:-1, tvg-id="ArteEvent4.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" tvg-name="ARTE Event 4"  group-title="Unsorted",ARTE Event 4
 https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
 
-#EXTINF:-1, tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" tvg-name="ARTE HD"  group-title="Unsorted",ARTE HD
+#EXTINF:24, tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" tvg-name="ARTE HD"  group-title="Unsorted",ARTE HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bayerisches Fernsehen"  group-title="Unsorted",Bayerisches Fernsehen
@@ -72,10 +72,10 @@ http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="DeutscheWelleDE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-name="Deutsche Welle"  group-title="Unsorted",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Chanel"  group-title="Unsorted",Disney Chanel
+#EXTINF:25, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Chanel"  group-title="Unsorted",Disney Chanel
 udp://@239.192.20.3:1234
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eins Festival HD"  group-title="Unsorted",Eins Festival HD
+#EXTINF:26, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eins Festival HD"  group-title="Unsorted",Eins Festival HD
 udp://@239.192.50.28:1234
 
 #EXTINF:-1, tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" tvg-name="eoTV HD"  group-title="Unsorted",eoTV HD
@@ -84,7 +84,7 @@ https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EuroNews"  group-title="Unsorted",EuroNews
 udp://@239.192.10.59:1234
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport"  group-title="Unsorted",Eurosport
+#EXTINF:27, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport"  group-title="Unsorted",Eurosport
 udp://@239.192.10.60:1234
 
 #EXTINF:-1, tvg-id="HREvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" tvg-name="HR Event 1"  group-title="Unsorted",HR Event 1
@@ -210,7 +210,7 @@ http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8
 #EXTINF:14, tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" tvg-name="Nickelodeon"  group-title="Unsorted",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="n-TV"  group-title="Unsorted",n-TV
+#EXTINF:28, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="n-TV"  group-title="Unsorted",n-TV
 udp://@239.192.10.10:1234
 
 #EXTINF:-1, tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" tvg-name="one HD"  group-title="Unsorted",one HD
@@ -234,7 +234,7 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-name="Parlamentsfernsehen 2"  group-title="Unsorted",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 
-#EXTINF:-1, tvg-id="phoenix.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" tvg-name="phoenix"  group-title="Unsorted",phoenix
+#EXTINF:29, tvg-id="phoenix.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" tvg-name="phoenix"  group-title="Unsorted",phoenix
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8
 
 #EXTINF:8, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Phoenix HD"  group-title="Unsorted",Phoenix HD
@@ -243,7 +243,7 @@ udp://@239.192.50.30:1234
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ProSieben"  group-title="Unsorted",ProSieben
 udp://@239.192.10.6:1234
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ProSieben MAXX"  group-title="Unsorted",ProSieben MAXX
+#EXTINF:38, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ProSieben MAXX"  group-title="Unsorted",ProSieben MAXX
 udp://@239.192.10.93:1234
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="rbb"  group-title="Unsorted",rbb
@@ -279,10 +279,10 @@ udp://@239.192.10.24:1234
 #EXTINF:5, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT.1"  group-title="Unsorted",SAT.1
 udp://@239.192.10.7:1234
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT.1 Gold"  group-title="Unsorted",SAT.1 Gold
+#EXTINF:37, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT.1 Gold"  group-title="Unsorted",SAT.1 Gold
 udp://@239.192.10.27:1234
 
-#EXTINF:-1, tvg-id="ServusHD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png" tvg-name="ServusTV HD"  group-title="Unsorted",ServusTV HD
+#EXTINF:26, tvg-id="ServusHD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png" tvg-name="ServusTV HD"  group-title="Unsorted",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
 
 #EXTINF:-1, tvg-id="ServusTV.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png" tvg-name="ServusTV HD (AT)"  group-title="Unsorted",ServusTV HD (AT)
@@ -324,13 +324,13 @@ udp://@239.192.50.18:1234
 #EXTINF:16, tvg-id="SWR-rp.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" tvg-name="SWR Rheinland-Pfalz HD"  group-title="Unsorted",SWR Rheinland-Pfalz HD
 https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3776.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tagesschau 24 HD"  group-title="Unsorted",Tagesschau 24 HD
+#EXTINF:35, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tagesschau 24 HD"  group-title="Unsorted",Tagesschau 24 HD
 udp://@239.192.50.27:1234
 
-#EXTINF:-1, tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" tvg-name="tagesschau24"  group-title="Unsorted",tagesschau24
+#EXTINF:34, tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" tvg-name="tagesschau24"  group-title="Unsorted",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Toggo Plus"  group-title="Unsorted",Toggo Plus
+#EXTINF:33, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Toggo Plus"  group-title="Unsorted",Toggo Plus
 udp://@239.192.10.47:1234
 
 #EXTINF:9, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VOX"  group-title="Unsorted",VOX
@@ -354,7 +354,7 @@ http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
 #EXTINF:15, tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" tvg-name="WDR HD"  group-title="Unsorted",WDR HD
 http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
 
-#EXTINF:-1, tvg-id="n24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" tvg-name="WELT"  group-title="Unsorted",WELT
+#EXTINF:30, tvg-id="n24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" tvg-name="WELT"  group-title="Unsorted",WELT
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ZDF"  group-title="Unsorted",ZDF
@@ -393,9 +393,9 @@ udp://@239.192.10.48:1234
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="zdf_neo HD"  group-title="Unsorted",zdf_neo HD
 udp://@239.192.50.20:1234
 
-#EXTINF:-1, tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" tvg-name="ZDFinfo HD"  group-title="Unsorted",ZDFinfo HD
+#EXTINF:31, tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" tvg-name="ZDFinfo HD"  group-title="Unsorted",ZDFinfo HD
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8
 
-#EXTINF:-1, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" tvg-name="ZDFneo HD"  group-title="Unsorted",ZDFneo HD
+#EXTINF:32, tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" tvg-name="ZDFneo HD"  group-title="Unsorted",ZDFneo HD
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8
 
