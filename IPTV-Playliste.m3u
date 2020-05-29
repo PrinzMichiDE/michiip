@@ -1,0 +1,160 @@
+﻿#EXTM3U
+#EXTINF:-1,3sat
+udp://@239.192.10.12:1234
+
+#EXTINF:-1,3sat HD
+udp://@239.192.50.21:1234
+
+#EXTINF:-1,ANIXE
+udp://@239.192.20.2:1234
+
+#EXTINF:-1,ARD Alpha
+udp://@239.192.10.28:1234
+
+#EXTINF:-1,Arte HD
+udp://@239.192.50.3:1234
+
+#EXTINF:-1,Bayerisches Fernsehen
+udp://@239.192.10.15:1234
+
+#EXTINF:-1,BR Nord HD
+udp://@239.192.50.32:1234
+
+#EXTINF:-1, Channel 21
+udp://@239.192.10.32:1234
+
+#EXTINF:-1,Das Erste
+udp://@239.192.10.2:1234
+
+#EXTINF:-1,Das Erste HD
+udp://@239.192.50.1:1234
+
+#EXTINF:-1,Disney Chanel
+udp://@239.192.20.3:1234
+
+#EXTINF:-1,Eins Festival HD
+udp://@239.192.50.28:1234
+
+#EXTINF:-1,EuroNews
+udp://@239.192.10.59:1234
+
+#EXTINF:-1,Eurosport
+udp://@239.192.10.60:1234
+
+#EXTINF:-1,hr-Fernsehen
+udp://@239.192.10.16:1234
+
+#EXTINF:-1,hr-Fernsehen HD
+udp://@239.192.50.26:1234
+
+#EXTINF:-1,HSE24 EXTRA
+udp://@239.192.10.61:1234
+
+#EXTINF:-1,Kabel eins
+udp://@239.192.10.4:1234
+
+#EXTINF:-1,KiKa
+udp://@239.192.10.13:1234
+
+#EXTINF:-1,KiKa HD
+udp://@239.192.50.22:1234
+
+#EXTINF:-1,MDR
+udp://@239.192.10.1:1234
+
+#EXTINF:-1,MDR HD
+udp://@239.192.50.48:1234
+
+#EXTINF:-1,MDR Sachsen
+udp://@239.192.10.19:1234
+
+#EXTINF:-1,MDR Sachsen-Anhalt
+udp://@239.192.10.20:1234
+
+#EXTINF:-1,N24
+udp://@239.192.10.9:1234
+
+#EXTINF:-1,N24 Doku
+udp://@239.192.20.1:1234
+
+#EXTINF:-1,NDR
+udp://@239.192.10.21:1234
+
+#EXTINF:-1,NDR HD
+udp://@239.192.50.31:1234
+
+#EXTINF:-1,n-TV
+udp://@239.192.10.10:1234
+
+#EXTINF:-1,Phoenix HD
+udp://@239.192.50.30:1234
+
+#EXTINF:-1,ProSieben
+udp://@239.192.10.6:1234
+
+#EXTINF:-1,ProSieben MAXX
+udp://@239.192.10.93:1234
+
+#EXTINF:-1,rbb
+udp://@239.192.10.22:1234
+
+#EXTINF:-1,rbb Berlin HD
+udp://@239.192.50.24:1234
+
+#EXTINF:-1,RTL
+udp://@239.192.10.5:1234
+
+#EXTINF:-1,RTL2
+udp://@239.192.10.24:1234
+
+#EXTINF:-1,RTL Nitro
+udp://@239.192.10.23:1234
+
+#EXTINF:-1,SAT.1
+udp://@239.192.10.7:1234
+
+#EXTINF:-1,SAT.1 Gold
+udp://@239.192.10.27:1234
+
+#EXTINF:-1,SR Fernsehen
+udp://@239.192.10.29:1234
+
+#EXTINF:-1,Super RTL
+udp://@239.192.10.25:1234
+
+#EXTINF:-1,SWR Fernsehen
+udp://@239.192.10.17:1234
+
+#EXTINF:-1,SWR HD
+udp://@239.192.50.18:1234
+
+#EXTINF:-1,Tagesschau 24 HD
+udp://@239.192.50.27:1234
+
+#EXTINF:-1,Toggo Plus
+udp://@239.192.10.47:1234
+
+#EXTINF:-1,VOX
+udp://@239.192.10.8:1234
+
+#EXTINF:-1,WDR
+udp://@239.192.10.18:1234
+
+#EXTINF:-1,ZDF
+udp://@239.192.10.3:1234
+
+#EXTINF:-1,ZDF HD
+udp://@239.192.50.2:1234
+
+#EXTINF:-1,zdf_neo
+udp://@239.192.10.48:1234
+
+#EXTINF:-1,zdf_neo HD
+udp://@239.192.50.20:1234
+
+#EXTINF:-1,ZDF info
+udp://@239.192.10.46:1234
+
+#EXTINF:-1,ZDF info HD
+udp://@239.192.50.23:1234
+
