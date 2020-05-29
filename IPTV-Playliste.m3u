@@ -1,49 +1,70 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" tvg-name="2 - ZDF HD"  group-title="Unsorted",2 - ZDF HD
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
-
-#EXTINF:-1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="1 - Das Erste HD"  group-title="Unsorted",1 - Das Erste HD
+#EXTINF:-1, tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" tvg-name="001 - Das Erste HD"  group-title="Unsorted",001 - Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="10 - Kabel eins"  group-title="Unsorted",10 - Kabel eins
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="010 - Kabel eins"  group-title="Unsorted",010 - Kabel eins
 udp://@239.192.10.4:1234
 
-#EXTINF:-1, tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="11 -ANIXE HD"  group-title="Unsorted",11 -ANIXE HD
+#EXTINF:-1, tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" tvg-name="011 -ANIXE HD"  group-title="Unsorted",011 -ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
-#EXTINF:-1, tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" tvg-name="12 - KiKA"  group-title="Unsorted",12 - KiKA
+#EXTINF:-1, tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" tvg-name="012 - KiKA"  group-title="Unsorted",012 - KiKA
 https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_1080.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 - Super RTL"  group-title="Unsorted",13 - Super RTL
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="013 - Super RTL"  group-title="Unsorted",013 - Super RTL
 udp://@239.192.10.25:1234
 
-#EXTINF:-1, tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" tvg-name="14 - Nickelodeon"  group-title="Unsorted",14 - Nickelodeon
+#EXTINF:-1, tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" tvg-name="014 - Nickelodeon"  group-title="Unsorted",014 - Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 
-#EXTINF:-1, tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" tvg-name="15 - WDR HD"  group-title="Unsorted",15 - WDR HD
+#EXTINF:-1, tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" tvg-name="015 - WDR HD"  group-title="Unsorted",015 - WDR HD
 http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
 
-#EXTINF:-1, tvg-id="SWR-rp.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" tvg-name="16 -SWR Rheinland-Pfalz HD"  group-title="Unsorted",16 -SWR Rheinland-Pfalz HD
+#EXTINF:-1, tvg-id="SWR-rp.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" tvg-name="016 -SWR Rheinland-Pfalz HD"  group-title="Unsorted",016 -SWR Rheinland-Pfalz HD
 https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3776.m3u8
 
-#EXTINF:-1, tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" tvg-name="17 - SR Fernsehen HD"  group-title="Unsorted",17 - SR Fernsehen HD
+#EXTINF:-1, tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" tvg-name="017 - SR Fernsehen HD"  group-title="Unsorted",017 - SR Fernsehen HD
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 
-#EXTINF:-1, tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" tvg-name="18 - rbb Berlin HD"  group-title="Unsorted",18 - rbb Berlin HD
+#EXTINF:-1, tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" tvg-name="018 - rbb Berlin HD"  group-title="Unsorted",018 - rbb Berlin HD
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
 
-#EXTINF:-1, tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" tvg-name="19 - NDR Mecklenburg-Vorpommern HD"  group-title="Unsorted",19 - NDR Mecklenburg-Vorpommern HD
+#EXTINF:-1, tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" tvg-name="019 - NDR Mecklenburg-Vorpommern HD"  group-title="Unsorted",019 - NDR Mecklenburg-Vorpommern HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" tvg-name="002 - ZDF HD"  group-title="Unsorted",002 - ZDF HD
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
 
 #EXTINF:-1, tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" tvg-name="20 -hr-fernsehen"  group-title="Unsorted",20 -hr-fernsehen
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+
+#EXTINF:-1, tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="003 - MDR Sachsen HD"  group-title="Unsorted",003 - MDR Sachsen HD
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
 
 #EXTINF:-1, tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" tvg-name="3sat"  group-title="Unsorted",3sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3sat HD"  group-title="Unsorted",3sat HD
 udp://@239.192.50.21:1234
+
+#EXTINF:-1, tvg-id="MDRThuringen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="004 - MDR Thüringen HD"  group-title="Unsorted",004 - MDR Thüringen HD
+http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="005 - SAT.1"  group-title="Unsorted",005 - SAT.1
+udp://@239.192.10.7:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="006 - RTL"  group-title="Unsorted",006 - RTL
+udp://@239.192.10.5:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="007 - RTL2"  group-title="Unsorted",007 - RTL2
+udp://@239.192.10.24:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="008 - ProSieben"  group-title="Unsorted",008 - ProSieben
+udp://@239.192.10.6:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="009 - VOX"  group-title="Unsorted",009 - VOX
+udp://@239.192.10.8:1234
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIXE"  group-title="Unsorted",ANIXE
 udp://@239.192.20.2:1234
@@ -159,17 +180,11 @@ udp://@239.192.50.48:1234
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MDR Sachsen"  group-title="Unsorted",MDR Sachsen
 udp://@239.192.10.19:1234
 
-#EXTINF:-1, tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="3 - MDR Sachsen HD"  group-title="Unsorted",3 - MDR Sachsen HD
-http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MDR Sachsen-Anhalt"  group-title="Unsorted",MDR Sachsen-Anhalt
 udp://@239.192.10.20:1234
 
 #EXTINF:-1, tvg-id="MDRS-Anhalt.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="MDR Sachsen-Anhalt HD"  group-title="Unsorted",MDR Sachsen-Anhalt HD
 http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
-
-#EXTINF:-1, tvg-id="MDRThuringen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" tvg-name="4 - MDR Thüringen HD"  group-title="Unsorted",4 - MDR Thüringen HD
-http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8
 
 #EXTINF:-1, tvg-id="MDRPlus1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png" tvg-name="MDR+ 1"  group-title="Unsorted",MDR+ 1
 http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
@@ -261,9 +276,6 @@ https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Phoenix HD"  group-title="Unsorted",Phoenix HD
 udp://@239.192.50.30:1234
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8 - ProSieben"  group-title="Unsorted",8 - ProSieben
-udp://@239.192.10.6:1234
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ProSieben MAXX"  group-title="Unsorted",ProSieben MAXX
 udp://@239.192.10.93:1234
 
@@ -285,17 +297,8 @@ https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u
 #EXTINF:-1, tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png" tvg-name="RiC / eoTV"  group-title="Unsorted",RiC / eoTV
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6 - RTL"  group-title="Unsorted",6 - RTL
-udp://@239.192.10.5:1234
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Nitro"  group-title="Unsorted",RTL Nitro
 udp://@239.192.10.23:1234
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7 -RTL2"  group-title="Unsorted",7 -RTL2
-udp://@239.192.10.24:1234
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 - SAT.1"  group-title="Unsorted",5 - SAT.1
-udp://@239.192.10.7:1234
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT.1 Gold"  group-title="Unsorted",SAT.1 Gold
 udp://@239.192.10.27:1234
@@ -341,9 +344,6 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Toggo Plus"  group-title="Unsorted",Toggo Plus
 udp://@239.192.10.47:1234
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9 - VOX"  group-title="Unsorted",9 - VOX
-udp://@239.192.10.8:1234
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WDR"  group-title="Unsorted",WDR
 udp://@239.192.10.18:1234
