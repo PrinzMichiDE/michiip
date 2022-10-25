@@ -25,7 +25,7 @@ http://masta.dynv6.net/playlist2.php?id=79
 http://masta.dynv6.net/playlist2.php?id=3853
 #EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/kabel-eins.png",Kabel 1 Eins
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://masta.dynv6.net/playlist2.php?id=49
+http://masta.dynv6.net/playlist2.php?id=3473
 #EXTINF:-1 tvg-name="NICKELODEON (1)" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/NICK.png" tvg-id="nick" id="3532",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=69
@@ -36,7 +36,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 http://masta.dynv6.net/playlist2.php?id=202
 #EXTINF:-1 tvg-name="DISNEY CHANNEL FHD (3)" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/DISNE.png" tvg-id="Disney Channel" id="28",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://masta.dynv6.net/playlist2.php?id=3386
+http://masta.dynv6.net/playlist2.php?id=152
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
