@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://zhort.de/epg"
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Deutschland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/2000px-ARD_Logo_2019.svg.png",Das Erste HD
-http://masta.dynv6.net/playlist2.php?id=1904
+#EXTVLCOPT:audio-track=1
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-http://masta.dynv6.net/playlist2.php?id=2162
+#EXTVLCOPT:audio-track=1
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Thueringen HD
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_1280x720.m3u8
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
