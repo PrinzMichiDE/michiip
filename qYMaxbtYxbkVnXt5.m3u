@@ -4,15 +4,24 @@ https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_1280x720.m3u8
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=3504
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/sat.1.png",SAT 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://masta.dynv6.net/playlist2.php?id=102
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl.png",RTL HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=92
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rtl2.png",RTL 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://masta.dynv6.net/playlist2.php?id=3570
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro7.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/pro7.png",Pro7 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=79
 #EXTINF:-1 tvg-id="vox.de" tvg-name="Vox.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/vox.png",VOX HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=3853
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/kabel-eins.png",Kabel 1 Eins
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://masta.dynv6.net/playlist2.php?id=3473
 #EXTINF:-1 tvg-name="NICKELODEON (1)" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/NICK.png" tvg-id="nick" id="3532",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://masta.dynv6.net/playlist2.php?id=69
