@@ -17,8 +17,9 @@ async function testStream(streamid: string): Promise<string | null> {
   return null;
 }
 
-export async function GET(req: NextRequest, { params }: { params: { streamid: string } }) {
-  let { streamid } = params;
+// Korrigierte Funktionssignatur für Next.js App Router mit Promise-params / Corrected function signature for Next.js App Router with Promise params
+export async function GET(req: NextRequest, context: { params: Promise<{ streamid: string }> }) {
+  const { streamid } = await context.params;
   if (!streamid) {
     return NextResponse.json({
       error: {

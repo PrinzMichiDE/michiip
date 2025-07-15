@@ -102,7 +102,7 @@ export async function GET() {
     // m3u8-Header
     let m3u = '#EXTM3U\n';
 
-    // Für jeden Sender nur einen Eintrag, mit Fallback-URLs / One entry per channel, with fallback URLs
+    // Für jeden Sender nur einen Eintrag, mit Fallback-IDs als Pipe / One entry per channel, with fallback IDs as pipe
     for (const [name, info] of Object.entries(channelMap)) {
       const tvgId = info.tvg?.id || (info.kodinerds[0]?.tvgId ?? '');
       const tvgName = info.tvg?.name || (info.kodinerds[0]?.tvgName ?? '');
@@ -110,9 +110,28 @@ export async function GET() {
       const tvgLogo = tvgId
         ? `https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/${tvgId}.png`
         : (info.kodinerds[0]?.tvgLogo ?? '');
-      // Alle URLs als Fallbacks (VLC unterstützt Pipe) / All urls as fallback (VLC supports pipe)
-      const urls = [...info.urls, ...info.kodinerds.map(e => e.url)].join('|');
-      m3u += `#EXTINF:-1${tvgId ? ` tvg-id=\"${tvgId}\"` : ''}${tvgName ? ` tvg-name=\"${tvgName}\"` : ''}${tvgLogo ? ` tvg-logo=\"${tvgLogo}\"` : ''},${name}\n${urls}\n`;
+      // IDs für Fallbacks / IDs for fallback
+      const allIds = [
+        ...info.ids,
+        ...info.kodinerds
+          .map(e => {
+            const m = e.url.match(/\/api\/stream\/(\d+)/);
+            return m ? m[1] : null;
+          })
+          .filter(Boolean)
+      ];
+      // Kodinerds-Externe URLs (keine Proxy-ID) / Kodinerds external URLs (no proxy id)
+      const externalKodinerds = info.kodinerds.filter(e => !e.url.match(/\/api\/stream\/(\d+)/));
+      // Hauptzeile mit Fallback-IDs / Main line with fallback IDs
+      if (allIds.length > 0) {
+        const streamUrl = `${process.env.NEXT_PUBLIC_BASE_URL || ''}/api/stream/${allIds.join('|')}`;
+        m3u += `#EXTINF:-1${tvgId ? ` tvg-id=\"${tvgId}\"` : ''}${tvgName ? ` tvg-name=\"${tvgName}\"` : ''}${tvgLogo ? ` tvg-logo=\"${tvgLogo}\"` : ''},${name}\n${streamUrl}\n`;
+      }
+      // Externe Kodinerds-Streams als eigene Zeile / External Kodinerds streams as own line
+      for (const ext of externalKodinerds) {
+        const extName = ext.tvgName || 'Unknown';
+        m3u += `#EXTINF:-1${ext.tvgId ? ` tvg-id=\"${ext.tvgId}\"` : ''}${ext.tvgName ? ` tvg-name=\"${ext.tvgName}\"` : ''}${ext.tvgLogo ? ` tvg-logo=\"${ext.tvgLogo}\"` : ''},${extName}\n${ext.url}\n`;
+      }
     }
 
     // m3u8 als Text zurückgeben / Return m3u8 as text
